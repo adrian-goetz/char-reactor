@@ -1,0 +1,5 @@
+{"classes":[
+    {"class":"Barbarian", "saveProficiency": ["str", "con"]},
+    {"class":"Bard", "saveProficiency":["dex", "cha"]},
+    {"class":"Druid", "saveProficiency":["wis", "int"]}
+]}
