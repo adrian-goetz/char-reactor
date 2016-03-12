@@ -49,3 +49,9 @@ Suggest stats
 Suggest background
 
 Explain choices
+
+FIND PICTURE
+Search internet for SFW pictures
+
+WRITE INFO TO FILE
+Create a structured character sheet.
